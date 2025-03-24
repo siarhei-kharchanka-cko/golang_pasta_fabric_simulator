@@ -6,6 +6,7 @@ A **Golang-based** web service that simulates **Meatball Monsters** working toge
 - Meatball Monsters generate pasta when they have energy.
 - Monsters need rest to regain energy.
 - RESTful API with `/produce` and `/rest` endpoints.
+- 
 - Interactive web interface for easy control.
 
 ## Installation & Setup
