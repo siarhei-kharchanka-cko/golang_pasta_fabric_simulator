@@ -6,6 +6,7 @@ import (
 	"sync"
 )
 
+
 type MeatballMonster struct {
 	Name   string
 	Energy int
